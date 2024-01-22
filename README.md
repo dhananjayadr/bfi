@@ -2,7 +2,7 @@
 This is a simple Brainfuck interpreter implemented in Rust.
 
 ### Usage
-1. Clone the repository or download the `brainfuck_interpreter.rs` file.
+1. Clone the repository.
    ```bash
    git clone https://github.com/dhananjayadr/bfi.git
    ```
